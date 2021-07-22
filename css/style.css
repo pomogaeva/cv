@@ -314,6 +314,11 @@ body {
   color: #777;
 }
 
+.projects {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
 .courses .card-title {
     min-height: 200px;
     background-color: #0ba2fb;
@@ -340,7 +345,9 @@ body {
 .project-link {
   text-decoration: none;
   color: #777;
+  font-weight: 500;
 }
+
 
 .project-link:hover {
   text-decoration: underline;
